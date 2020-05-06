@@ -1,0 +1,23 @@
+div {
+    margin: 150px 10px;
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 0;
+}
+
+span {
+    display: inline-block;
+    color: #FFF;
+    font-size: 20px;
+    line-height: 1.8em;
+    text-align: center;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+    float: right;
+}

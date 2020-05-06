@@ -1,0 +1,5 @@
+d3.selectAll('span')
+    .datum(function(){return this.dataset})
+    .style('width', '50%')
+    .transition().duration(2000)
+    .style('width', d=>d.val)
