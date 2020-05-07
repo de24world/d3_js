@@ -1,0 +1,33 @@
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+span {
+    display: block;
+    margin: 10px 0;
+    color: #FFF;
+    font-size: 20px;
+    line-height: 1.8em;
+    text-align: center;
+    border-radius: 15px;
+}
+
+body {
+    background-color: #262626;
+}
+
+div {
+    margin: 150px 50px;
+}
