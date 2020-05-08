@@ -1,0 +1,45 @@
+span {
+    position: absoule;
+    display: inline-block;
+    width: 60px;
+    bottom: 0;
+}
+
+div {
+    position: relative;
+    height: 400px;
+}
+
+
+
+body {
+    background-color: #262626;
+}
+
+.blue {
+    background-color: #5abae6;
+}
+
+.red {
+    background-color: #d34e4e;
+}
+
+.green {
+    background-color: #9dbb19;
+}
+
+.yellow {
+    background-color: #f7b358;
+}
+
+div {
+    margin: 50px 50px;
+}
+
+span {
+    color: #FFF;
+    font-size: 20px;
+    line-height: 1.8em;
+    text-align: center;
+    border-radius: 15px;
+}
